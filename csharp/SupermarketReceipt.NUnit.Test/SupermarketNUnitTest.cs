@@ -5,6 +5,7 @@ using NUnit.Framework.Legacy;
 
 namespace SupermarketReceipt.NUnit.Test
 {
+    [TestFixture]
     public class SupermarketNUnitTest
     {
         [TestCase]
